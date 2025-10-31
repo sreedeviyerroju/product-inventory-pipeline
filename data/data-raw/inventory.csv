@@ -1,0 +1,9 @@
+product_id,warehouse,stock,on_order,reorder_level
+P001,Toronto,120,30,100
+P002,Toronto,40,60,50
+P003,Toronto,10,20,25
+P004,Toronto,90,0,40
+P005,Toronto,15,40,30
+P006,Toronto,5,10,15
+P007,Toronto,200,50,100
+P008,Toronto,30,10,25

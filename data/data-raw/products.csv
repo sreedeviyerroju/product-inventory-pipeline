@@ -1,0 +1,9 @@
+product_id,product_name,category,brand,price
+P001,Wireless Mouse,Accessories,LogiTech,29.99
+P002,Mechanical Keyboard,Accessories,KeyChron,89.99
+P003,4K Monitor,Displays,Dell,299.99
+P004,Laptop Stand,Accessories,RainDesign,49.99
+P005,Noise Cancelling Headphones,Audio,Sony,199.99
+P006,Smartwatch,Wearables,Apple,399.99
+P007,Portable SSD,Storage,Samsung,119.99
+P008,Webcam,Accessories,LogiTech,59.99
